@@ -1,4 +1,6 @@
-A twitter bot that generates, renders and posts images of tile patterns in the style of NYC Subway tile art for non-existant stations.
+A twitter bot that generates, renders and posts images of tile patterns in the style of NYC Subway tile art for non-existent stations.
+
+![Cortelyou Yards](https://raw.githubusercontent.com/heavyimage/MTA-Tile-Renderer-Bot/master/output/Screen%20Shot%202018-07-09%20at%202.37.26%20AM.png)
 
 A continuation from my [Fake MTA Subway Station](https://github.com/heavyimage/Fake-NYC-Subway-Stations) Generator bot.
 
